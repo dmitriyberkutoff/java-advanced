@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"info.kgeorgiy.ja.berkutov.implementor","l":"Implementor.DeletingFileVisitor"},{"p":"info.kgeorgiy.ja.berkutov.implementor","l":"Implementor"}];updateSearchResults();
